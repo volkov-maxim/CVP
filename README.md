@@ -1,2 +1,2 @@
 # CVP
-Computer Vision Project
+Computer Vision Project: Implementation of "running window" for object classification
