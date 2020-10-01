@@ -1,0 +1,29 @@
+number_class,file_name,Target_ratio
+1,apple pie.jpeg,1.0
+1,bread pudding.jpg,1.0
+1,breakfast burrito.jpg,1.0
+1,chicken wings.jpg,1.0
+1,cup cakes.jpeg,1.0
+1,dumplings.jpg,1.0
+1,omelette.jpg,1.0
+1,risotto.jpg,0.8333333333333334
+1,spaghetti bolognese.jpg,0.6666666666666666
+1,spaghetti carbonara.jpg,1.0
+2,apple pie+ice cream.jpg,1.0
+2,apple pie+ice cream2.jpg,0.5
+2,apple pie+ice cream3.jpeg,1.0
+2,club sandwich+caesar salad.jpg,1.0
+2,hamburger+caesar salad.jpg,1.0
+2,risotto+chicken wings.jpg,1.0
+2,risotto+eggs benedict.jpg,1.0
+2,steak+risotto.jpg,1.0
+3,baby back ribs+caesar salad+french fries.jpg,0.7083333333333334
+3,club sandwich+french fries+greek salad.jpg,0.8333333333333334
+3,filet mignon+french fries+greek salad.jpg,0.7142857142857143
+3,french fries+hamburger+eggs benedict.jpg,1.0
+3,french fries+hot dog+chicken wings.jpg,0.8571428571428571
+3,french fries+steak+caesar salad.jpg,0.9
+3,steak+greek salad+french fries.jpg,1.0
+4,steak+eggs benedict+french fries+greek salad2.jpg,0.52
+4,steak+eggs benedict+french fries+greek salad3.jpg,0.6153846153846154
+4,steak+eggs benedict+french fries+greek salad4.jpg,0.4444444444444444
